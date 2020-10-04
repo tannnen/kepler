@@ -88,6 +88,10 @@ class LanguageDialog extends StatelessWidget {
                           child: Text("Polish"),
                           value: "pl",
                         ),
+                        DropdownMenuItem(
+                          child: Text("Bulgarian"),
+                          value: "bg",
+                        ),
                       ],
                     ),
                   ),
