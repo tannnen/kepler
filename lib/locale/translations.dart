@@ -15,6 +15,7 @@ const List<String> _supportedLanguages = [
   'de',
   'pl',
   'es',
+  'bg',
 ];
 final GetStorage getStorage = GetStorage();
 
